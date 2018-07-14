@@ -10,6 +10,7 @@ Geef hier je werkuren in voor de juiste week
 | Hervé Munyaneza | 8 | 8 | 8 | 8 | 8 |
 | Michiel Derveeuw | 8 | 8 | 8 | 8 | 8 |
 | Tom Lauwaerts | 8 | 8 | 8 | 8 | 8 |
+| Jorg Wieme | 8 | 8 | 8 | 8 | 0 |
 
 ----
 
